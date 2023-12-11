@@ -5,9 +5,9 @@ You can generate random passwords and store it in a file with an extension of wh
 Running this simple micro program is really straightforward.
 
 
-## Usage:
-
-Example: python password_generator.py
+## Usage
+Example: 
+        >python password_generator.py
         >Number of Passwords To Generate: 10
         >Password Length: 12
         >Choose 1 or 2
