@@ -6,7 +6,11 @@ Running this simple micro program is really straightforward.
 
 
 ## Usage
-Example: 
+
+        >python password_generator.py
+        
+### Example:
+
         >python password_generator.py
         >Number of Passwords To Generate: 10
         >Password Length: 12
